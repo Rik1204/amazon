@@ -1,0 +1,7 @@
+{
+  "name": "Amazon ML Business Entity Resolution Studio",
+  "description": "Interactive workbench and resolution pipeline for the Amazon ML Challenge Business Entity Resolution system, featuring text normalization, phonetic skeleton keys, blocking, 26-feature pair extraction, macro F0.5 evaluation, and submission validation.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,30 @@
+records prepared in 160s
+  features for 5,000,039 / 86,625,810 blocking pairs (72s)
+  features for 10,000,057 / 86,625,810 blocking pairs (141s)
+  features for 15,000,077 / 86,625,810 blocking pairs (209s)
+  features for 20,000,112 / 86,625,810 blocking pairs (277s)
+  features for 25,000,135 / 86,625,810 blocking pairs (348s)
+  features for 30,000,153 / 86,625,810 blocking pairs (414s)
+  features for 35,000,172 / 86,625,810 blocking pairs (484s)
+  features for 40,000,200 / 86,625,810 blocking pairs (552s)
+  features for 45,000,243 / 86,625,810 blocking pairs (620s)
+  features for 50,000,254 / 86,625,810 blocking pairs (687s)
+  features for 55,000,277 / 86,625,810 blocking pairs (758s)
+  features for 60,000,308 / 86,625,810 blocking pairs (819s)
+  features for 65,000,338 / 86,625,810 blocking pairs (889s)
+  features for 70,000,379 / 86,625,810 blocking pairs (950s)
+  features for 75,000,422 / 86,625,810 blocking pairs (1020s)
+  features for 80,000,436 / 86,625,810 blocking pairs (1086s)
+  features for 85,000,454 / 86,625,810 blocking pairs (1162s)
+  features for 86,625,810 / 86,625,810 blocking pairs (1189s)
+matcher done, two passes (1687s)
+
+per S1 entity, by country:
+         entities  candidates_mean  matches_mean  share_no_match
+country                                                         
+France     259452            8.517         3.061           0.064
+India      809986            6.474         3.221           0.061
+US         663106            6.467         3.355           0.057
+total candidate pairs: 11,741,382 (6.78 per S1 entity)
+
+threshold 0.675: wrote C:\Users\KIIT\Downloads\Amazon_ML\output\matching_results.tsv and candidate_pairs.tsv in 1976s

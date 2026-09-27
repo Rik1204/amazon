@@ -1,0 +1,18 @@
+{
+  "target_score_range": "0.991 - 0.995",
+  "achieved_macro_f05": 0.9933033713219471,
+  "best_configuration": {
+    "iteration": 5,
+    "name": "Add Unseen France Strict Filtering & Dual-Threshold Ensemble",
+    "params": {
+      "threshold": 0.65,
+      "unseen_strict": true,
+      "unseen_thresh": 0.82,
+      "require_address": true,
+      "suppress_primary_conflict": true,
+      "suppress_sibling": true,
+      "enable_competition": true
+    }
+  },
+  "timestamp": "2026-09-27 10:30:09"
+}
